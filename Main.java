@@ -62,7 +62,7 @@ class Move {
         }
 
 
-        //System.out.println("The final position (x,y) of the Robot is (" + robot.getX() + " , " + robot.getY() + ") and its direction is: " + robot.getDirection());
+        System.out.println("The final position (x,y) of the Robot is (" + robot.getX() + " , " + robot.getY() + ") and its direction is: " + robot.getDirection());
 
     }
 
