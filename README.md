@@ -46,7 +46,7 @@ It looks like the picture below:
 
 Robot's movements
 
-![image](https://github.com/esilvas1/RobotControl_JetBrains/assets/80207782/a0b5e40e-620b-4281-b0b2-7088552ab1dc)
+![image](https://github.com/esilvas1/Robot_Control_Jet_Brains/assets/80207782/7f0877fa-7449-42fb-927d-dd48bf91b751)
 
 
 Example
